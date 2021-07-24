@@ -1,0 +1,27 @@
+.circle{
+
+    border-radius: 70%;
+    width: 5.5rem;
+    height: 4.5rem;
+
+}
+.team-h6{
+
+    font-family: 'Poppins', sans-serif;
+    font-size: 20px;
+    margin-top: 1rem;
+    margin-left: 1rem;
+}
+.team-p{
+
+    font-family: 'Poppins', sans-serif;
+    
+    margin-top: 1rem;
+    margin-left: 1rem;
+
+}
+.icon{
+    margin: 1rem;
+    margin-left: 5rem;
+}
+

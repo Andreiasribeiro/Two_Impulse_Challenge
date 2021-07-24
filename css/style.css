@@ -1,0 +1,179 @@
+/*======= Global styles ======= */
+body {
+    margin: 0;
+}
+/*======= Typography ======= */
+h1 {
+    font-size: 35px;
+    font-family: 'Poppins', sans-serif;
+}
+h2 {
+    font-size: 25px;
+    font-family: 'Open Sans', sans-serif;
+    color: darkblue;
+}
+h3 {
+    font-size: 20px;
+    font-family: 'Poppins', sans-serif;
+}
+p {
+    font-size: 15px;
+    font-family: 'Open Sans', sans-serif;
+   }
+   
+ a {
+    font-size: 15px;
+    font-family: 'Open Sans', sans-serif;
+    color: #fff;
+    text-decoration: none;
+    
+ } 
+ a:hover {
+    color: darkmagenta;
+} 
+  
+/*======= Layout ======= */
+
+header {
+    background-color: #5851EA;
+    color: white;
+    padding-top: 150px;
+    text-align: center;
+    background-image: url("../img/img-cut-landing.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 600px;
+    
+}
+
+.btn1 {
+    display: inline-block;
+    background: white;
+    padding: 10px;
+    font-weight: bold;
+    border-radius: 30px;
+    margin-top: 20px;
+    width: 150px;
+    color: #5851EA;
+    text-decoration: none;
+    
+}
+.container{
+    max-width: 1000px;
+}
+.intro1 {
+    width: 500px;
+    
+    margin:50px auto 20px;
+    color: gray;
+    
+
+    text-align: center;
+    background-color: white;
+  }
+.intro2 {
+    background-image: url("../img/composicao3.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: auto;
+    height: 950px;
+    margin: 0 auto;
+   
+    display: flex; /*shows two columns*/
+   }
+
+.middle1 {
+    background-image: url("../img/img-landing2.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+   
+    margin-left: 70px;
+    padding: 30px;
+    width: 600px;
+  }
+.middle2 {
+    margin: 5px;
+    padding-top: 200px;
+    padding-left: 25px;
+    padding-right: 40px;
+    width: 350px;
+    color: gray;
+
+}
+.btn2 {
+    display: inline-block;
+    background: #5851EA;
+    padding: 10px;
+    font-weight: bold;
+    border-radius: 30px;
+    margin-top: 20px;
+    color: white;
+    text-decoration: none;
+    width: 150px;
+    text-align: center;
+    box-shadow: 5px 5px 5px rgb(221, 218, 218);
+}
+.my-skills1 {
+    
+    height: 450px;
+
+}
+.columns {
+    background-image: url("../img/composicao.png");
+    background-color: #5851EA;
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+  
+    height: 450px;
+}
+
+.column1 {
+    color: white;
+    height: 250px;
+    margin-top: 100px;
+    margin-left: 150px;
+    margin-right: 10px;
+    width: 500px;
+    padding: 40px;
+
+    
+    
+}
+.icons {
+    display: flex;
+
+}
+.column {
+    
+    color: white;
+    height: 250px;
+    margin-top: 100px;
+    margin-right: 10px;
+    margin-left: 10px;
+    width: 300px;
+    padding: 20px;
+    
+}
+.column4 {
+    color: white;
+    height: 250px;
+    margin-top: 100px;
+    margin-right: 200px;
+    margin-left: 10px;
+    width: 300px;
+    padding: 20px;
+    
+}
+.my-skills2{
+    color: white;
+    padding: 20px 0;
+    background-color: #5851EA;
+}
+    
+.last {
+    width: 500px;
+    margin: 0 auto;
+    /*border: 2px solid rgb(43, 255, 0);*/
+    text-align: center;
+}

@@ -1,0 +1,151 @@
+.text1{
+
+    font-family: 'Poppins', sans-serif;
+    font: 700;
+    color: white;
+    margin-top: 5.8rem;
+}
+.text2{
+
+    margin-top: 7rem;
+    font-family: 'Poppins', sans-serif;
+}
+
+.text3{
+
+    margin-top: 10rem;
+    margin-bottom: 2rem;
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+}
+
+
+.landings{
+
+    width: 30rem;
+    height: 30rem;
+}
+.p1{
+    font-family: 'Poppins', sans-serif;
+
+}
+.btn-info{
+
+    background-color: rgba(24, 13, 231, 1);
+    color: white;
+    font-weight: bold;
+    border-radius: 2rem;
+    margin-top: 1.5rem;
+    width: 8rem;
+
+}
+
+
+
+.btn-success{
+    width: 8rem;
+    background-color: white !important;
+    color: black !important;
+    font-weight: bold;
+    border-radius: 2rem;
+    margin-top: 1.5rem;
+}
+
+
+
+
+
+
+
+.bg-img {
+   
+    background-image: url("../images/landing.png");
+    min-height: 680px;
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: rgba(24, 13, 231, 1);
+    position: relative;
+  }
+
+  .bg-img1{
+   
+    background-image: url("../images/curve.png");
+    min-height: 400px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: rgba(24, 13, 231, 1);
+    position: relative;
+  }
+  .simple-p1{
+
+    color: white;
+    font-family: 'Poppins', sans-serif;
+
+  }
+
+  .ref a{
+
+
+    color: white!important;
+    font-size: 21px;
+  }
+
+  
+  .ref {
+    margin-top: 5rem;
+    
+  }
+
+
+
+  
+  /* Position the navbar container inside the image */
+  .container {
+    /* position: absolute; */
+    /* margin: 20px; */
+    /* width: auto; */
+  }
+  
+  /* The navbar */
+  .topnav {
+    overflow: hidden;
+    /* background-color: #333; */
+    
+  }
+  
+  /* Navbar links */
+  .topnav a {
+    margin-top: 5rem;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    margin-left: 10rem;
+    text-decoration: none;
+    font-size: 21px;
+  }
+  
+  .topnav a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+  .footer-text{
+    
+    font-family: 'Poppins', sans-serif;
+     color: white;
+     
+
+
+  }
+  .btn-default{
+    background-color: white;
+    color: black;
+    width: 7rem;
+    border-radius: 25px;
+    height: 2.5rem;
+
+
+
+  }

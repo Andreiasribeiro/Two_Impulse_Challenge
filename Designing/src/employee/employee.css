@@ -1,0 +1,40 @@
+.background{
+
+    background-color: rgba(24, 13, 231, 1) !important;
+
+}
+.nav-link{
+    color: white!important;
+    font-size: 19px;
+    font-family: 'Poppins', sans-serif;
+    margin-right: 2rem;
+}
+.logo3{
+    margin-left: 4rem;
+}
+.e1{
+
+    margin-left: 15rem;
+    margin-top: 7rem;
+    width: 2.9rem;
+    height: 4.1rem;
+}
+
+.e2{
+
+    margin-left: 6rem;
+    margin-top: 9rem;
+    width: 2.5rem;
+    height: 4.1rem;
+
+}
+.emp-p1{
+    font-family: 'Poppins', sans-serif;
+    margin-left: 10rem;
+    margin-top: 8rem;
+    font-size: 30px;
+    font-weight: 700;
+    color: rgba(24, 13, 231, 1) !important;
+
+}
+
